@@ -1,0 +1,172 @@
+[2026-05-21 21:50:19] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 21:50:19] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 21:51:31] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 21:52:44] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 21:52:44] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 21:52:44] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 21:52:44] [INFO] [GIT] Pasta local ainda não é um repositório Git
+[2026-05-21 21:54:35] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 21:54:38] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 21:54:38] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 21:54:38] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 21:54:38] [INFO] [GIT] Pasta local ainda não é um repositório Git
+[2026-05-21 21:56:12] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 21:59:29] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 21:59:29] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 21:59:29] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 21:59:29] [INFO] [GIT] Pasta local ainda não é um repositório Git
+[2026-05-21 22:04:54] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 22:06:02] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 22:06:02] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 22:06:02] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 22:06:02] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 22:06:02] [INFO] [GIT] Pasta local ainda não é um repositório Git
+[2026-05-21 22:11:55] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 22:12:03] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 22:12:03] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 22:12:03] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 22:12:03] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 22:12:03] [INFO] [GIT] Pasta local ainda não é um repositório Git
+[2026-05-21 22:12:03] [SUCCESS] [GIT] Repositório local preparado com sucesso
+[2026-05-21 22:13:48] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 22:13:50] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 22:13:51] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 22:13:51] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 22:13:51] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 22:13:51] [INFO] [GIT] Pasta local já é um repositório Git
+[2026-05-21 22:14:23] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 22:24:50] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 22:24:50] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 22:24:50] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 22:24:50] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 22:24:50] [INFO] [GIT] Pasta local já é um repositório Git
+[2026-05-21 22:25:06] [INFO] [LOCAL] Iniciando sincronização local
+[2026-05-21 22:25:06] [INFO] [LOCAL] Nenhuma alteração local encontrada
+[2026-05-21 22:25:28] [INFO] [LOCAL] Iniciando sincronização local
+[2026-05-21 22:25:35] [SUCCESS] [LOCAL] Sincronização local concluída com sucesso
+[2026-05-21 22:26:07] [INFO] [LOCAL] Iniciando sincronização local
+[2026-05-21 22:26:13] [SUCCESS] [LOCAL] Sincronização local concluída com sucesso
+[2026-05-21 22:27:47] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 22:31:38] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 22:31:38] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 22:31:38] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 22:31:38] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 22:31:38] [INFO] [GIT] Pasta local já é um repositório Git
+[2026-05-21 22:31:38] [SUCCESS] [WATCHER] Monitoramento iniciado em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-21 22:31:57] [INFO] [WATCHER] Alteração detectada: Nuevo Documento de Texto.txt
+[2026-05-21 22:32:08] [INFO] [WATCHER] Alteração detectada: Nuevo Documento de Texto.txt
+[2026-05-21 22:32:08] [INFO] [WATCHER] Alteração detectada: ola bela.txt
+[2026-05-21 22:32:38] [INFO] [WATCHER] Debounce finalizado. Iniciando sincronização automática.
+[2026-05-21 22:32:38] [INFO] [LOCAL] Iniciando sincronização local
+[2026-05-21 22:32:45] [SUCCESS] [LOCAL] Sincronização local concluída com sucesso
+[2026-05-21 22:55:57] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 22:57:55] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 22:57:55] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 22:57:55] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 22:57:55] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 22:57:55] [INFO] [GIT] Pasta local já é um repositório Git
+[2026-05-21 22:57:55] [INFO] [IGNORE] Nenhum arquivo acima do limite encontrado
+[2026-05-21 22:57:55] [SUCCESS] [WATCHER] Monitoramento iniciado em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-21 23:05:04] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 23:08:37] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 23:08:37] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 23:08:37] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 23:08:37] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 23:08:37] [INFO] [GIT] Pasta local já é um repositório Git
+[2026-05-21 23:08:37] [INFO] [IGNORE] Nenhum arquivo acima do limite encontrado
+[2026-05-21 23:08:37] [SUCCESS] [WATCHER] Monitoramento iniciado em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-21 23:08:57] [ERROR] [USB] Pendrive removido de D:
+[2026-05-21 23:09:07] [INFO] [USB] Pendrive detectado em D:. Use o comando 'usb' para sincronizar.
+[2026-05-21 23:09:27] [ERROR] [USB] Pendrive removido de D:
+[2026-05-21 23:09:37] [INFO] [USB] Pendrive detectado em D:. Use o comando 'usb' para sincronizar.
+[2026-05-21 23:10:09] [INFO] [USB] Iniciando sincronização do pendrive
+[2026-05-21 23:10:09] [INFO] [USB] Pasta USB vazia encontrada. Clonando repositório no pendrive.
+[2026-05-21 23:10:14] [SUCCESS] [USB] Repositório clonado no pendrive com sucesso
+[2026-05-21 23:10:14] [ERROR] [USB] Erro ao verificar alterações Git no pendrive: fatal: detected dubious ownership in repository at 'D:/BELLA_UP'
+'D:/BELLA_UP' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory D:/BELLA_UP
+[2026-05-21 23:10:14] [ERROR] [USB] Erro na sincronização manual USB: fatal: detected dubious ownership in repository at 'D:/BELLA_UP'
+'D:/BELLA_UP' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory D:/BELLA_UP
+[2026-05-21 23:12:09] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 23:12:18] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 23:12:18] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 23:12:18] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 23:12:18] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 23:12:18] [INFO] [GIT] Pasta local já é um repositório Git
+[2026-05-21 23:12:18] [INFO] [IGNORE] Nenhum arquivo acima do limite encontrado
+[2026-05-21 23:12:18] [SUCCESS] [WATCHER] Monitoramento iniciado em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-21 23:12:32] [INFO] [USB] Iniciando sincronização do pendrive
+[2026-05-21 23:12:32] [INFO] [USB] Pasta do pendrive já é um repositório Git
+[2026-05-21 23:12:32] [INFO] [USB] Nenhuma alteração local encontrada no pendrive
+[2026-05-21 23:12:38] [SUCCESS] [LOCAL] Pasta local atualizada após sincronização USB
+[2026-05-21 23:12:38] [SUCCESS] [USB] Sincronização do pendrive concluída com sucesso
+[2026-05-21 23:13:37] [INFO] [USB] Iniciando sincronização do pendrive
+[2026-05-21 23:13:37] [INFO] [USB] Pasta do pendrive já é um repositório Git
+[2026-05-21 23:13:47] [INFO] [WATCHER] Alteração detectada: ola bela.txt
+[2026-05-21 23:13:47] [INFO] [WATCHER] Alteração detectada: silla.txt
+[2026-05-21 23:13:47] [SUCCESS] [LOCAL] Pasta local atualizada após sincronização USB
+[2026-05-21 23:13:47] [SUCCESS] [USB] Sincronização do pendrive concluída com sucesso
+[2026-05-21 23:14:17] [INFO] [WATCHER] Debounce finalizado. Iniciando sincronização automática.
+[2026-05-21 23:14:17] [INFO] [LOCAL] Iniciando sincronização local
+[2026-05-21 23:14:17] [INFO] [LOCAL] Nenhuma alteração local encontrada
+[2026-05-21 23:31:44] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 23:31:45] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 23:31:45] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 23:31:45] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 23:31:45] [INFO] [GIT] Pasta local já é um repositório Git
+[2026-05-21 23:31:45] [INFO] [IGNORE] Nenhum arquivo acima do limite encontrado
+[2026-05-21 23:31:45] [SUCCESS] [WATCHER_LOCAL] Monitoramento iniciado em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-21 23:31:45] [INFO] [USB] Pasta do pendrive já é um repositório Git
+[2026-05-21 23:31:45] [SUCCESS] [WATCHER_USB] Monitoramento iniciado em: D:\BELLA_UP
+[2026-05-21 23:31:45] [INFO] [USB] Pendrive detectado em D:
+[2026-05-21 23:32:32] [INFO] [USB] Iniciando sincronização do pendrive
+[2026-05-21 23:32:32] [INFO] [USB] Pasta do pendrive já é um repositório Git
+[2026-05-21 23:32:32] [INFO] [USB] Nenhuma alteração local encontrada no pendrive
+[2026-05-21 23:32:38] [SUCCESS] [LOCAL] Pasta local atualizada após sincronização USB
+[2026-05-21 23:32:38] [SUCCESS] [USB] Sincronização do pendrive concluída com sucesso
+[2026-05-21 23:32:45] [INFO] [SYSTEM] B.E.L.L.A. encerrada pelo usuário
+[2026-05-21 23:33:53] [INFO] [SYSTEM] B.E.L.L.A. iniciada
+[2026-05-21 23:33:53] [INFO] [CONFIG] Configuração carregada com sucesso
+[2026-05-21 23:33:53] [SUCCESS] [GIT] Git encontrado com sucesso
+[2026-05-21 23:33:53] [SUCCESS] [IGNORE] .gitignore preparado com sucesso
+[2026-05-21 23:33:53] [INFO] [GIT] Pasta local já é um repositório Git
+[2026-05-21 23:33:53] [INFO] [IGNORE] Nenhum arquivo acima do limite encontrado
+[2026-05-21 23:33:53] [SUCCESS] [WATCHER_LOCAL] Monitoramento iniciado em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-21 23:33:53] [INFO] [USB] Pasta do pendrive já é um repositório Git
+[2026-05-21 23:33:53] [SUCCESS] [WATCHER_USB] Monitoramento iniciado em: D:\BELLA_UP
+[2026-05-21 23:33:53] [INFO] [USB] Pendrive detectado em D:
+[2026-05-21 23:34:35] [SUCCESS] [STARTUP] Inicialização automática instalada
+[2026-05-21 23:35:10] [INFO] [WATCHER_USB] [USB] Alteração detectada: silla.txt
+[2026-05-21 23:35:10] [INFO] [WATCHER_USB] [USB] Alteração detectada: alfredo.txt
+[2026-05-21 23:35:15] [INFO] [WATCHER_USB] Nova pasta monitorada: D:\BELLA_UP\Nueva carpeta
+[2026-05-21 23:35:15] [INFO] [WATCHER_USB] [USB] Alteração detectada: Nueva carpeta
+[2026-05-21 23:35:45] [INFO] [WATCHER_USB] Debounce finalizado. Iniciando sincronização automática.
+[2026-05-21 23:35:45] [INFO] [USB] Iniciando sincronização do pendrive
+[2026-05-21 23:35:45] [INFO] [USB] Pasta do pendrive já é um repositório Git
+[2026-05-21 23:35:55] [INFO] [WATCHER_LOCAL] [LOCAL] Alteração detectada: silla.txt
+[2026-05-21 23:35:55] [INFO] [WATCHER_LOCAL] [LOCAL] Alteração detectada: alfredo.txt
+[2026-05-21 23:35:55] [SUCCESS] [LOCAL] Pasta local atualizada após sincronização USB
+[2026-05-21 23:35:55] [SUCCESS] [USB] Sincronização do pendrive concluída com sucesso
+[2026-05-21 23:36:00] [INFO] [WATCHER_LOCAL] [LOCAL] Alteração detectada: Nuevo Microsoft PowerPoint Presentation.pptx
+[2026-05-21 23:36:05] [INFO] [WATCHER_LOCAL] [LOCAL] Alteração detectada: Nuevo Microsoft PowerPoint Presentation.pptx
+[2026-05-21 23:36:05] [INFO] [WATCHER_LOCAL] [LOCAL] Alteração detectada: nada por quia.pptx
+[2026-05-21 23:36:35] [INFO] [WATCHER_LOCAL] Debounce finalizado. Iniciando sincronização automática.
+[2026-05-21 23:36:35] [INFO] [LOCAL] Iniciando sincronização local
+[2026-05-21 23:36:42] [SUCCESS] [LOCAL] Sincronização local concluída com sucesso
+[2026-05-21 23:38:21] [INFO] [USB] Iniciando sincronização do pendrive
+[2026-05-21 23:38:21] [INFO] [USB] Pasta do pendrive já é um repositório Git
+[2026-05-21 23:38:22] [INFO] [USB] Nenhuma alteração local encontrada no pendrive
+[2026-05-21 23:38:25] [INFO] [WATCHER_USB] [USB] Alteração detectada: nada por quia.pptx
+[2026-05-21 23:38:28] [SUCCESS] [LOCAL] Pasta local atualizada após sincronização USB
+[2026-05-21 23:38:28] [SUCCESS] [USB] Sincronização do pendrive concluída com sucesso
+[2026-05-21 23:38:55] [INFO] [WATCHER_USB] Debounce finalizado. Iniciando sincronização automática.
+[2026-05-21 23:38:55] [INFO] [USB] Iniciando sincronização do pendrive
+[2026-05-21 23:38:55] [INFO] [USB] Pasta do pendrive já é um repositório Git
+[2026-05-21 23:38:55] [INFO] [USB] Nenhuma alteração local encontrada no pendrive
+[2026-05-21 23:39:01] [SUCCESS] [LOCAL] Pasta local atualizada após sincronização USB
+[2026-05-21 23:39:01] [SUCCESS] [USB] Sincronização do pendrive concluída com sucesso

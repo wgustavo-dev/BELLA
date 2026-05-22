@@ -1,0 +1,25 @@
+{
+  "localFolder": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\BELLA_UP",
+  "repoName": "drive_bar",
+  "repoUrl": "https://github.com/wgustavo-dev/drive_bar.git",
+  "branch": "main",
+  "autoCommitDelaySeconds": 30,
+  "usbDriveLetter": "D:",
+  "usbFolder": "D:\\BELLA_UP",
+  "maxFileSizeMB": 100,
+  "gitPath": "git",
+  "ignorePatterns": [
+    "*.tmp",
+    "*.log",
+    "*.cache",
+    "*.zip",
+    "*.rar",
+    "*.iso",
+    "*.mp4",
+    "node_modules",
+    "dist",
+    "build"
+  ],
+  "autoStartWithWindows": false,
+  "askBeforeUsbSync": true
+}

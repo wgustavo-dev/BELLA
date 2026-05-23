@@ -1,0 +1,1038 @@
+[2026-05-22 23:39:27] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-22 23:39:27] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-22 23:39:27] [INFO] [USB] Pasta não existe. Clonando repositório.
+[2026-05-22 23:39:31] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-22 23:40:30] [INFO] [LOCAL] Verificando alterações em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-22 23:40:35] [SUCCESS] [LOCAL] Sincronização concluída
+[2026-05-22 23:41:33] [INFO] [SYSTEM] B.E.L.L.A. encerrada
+[2026-05-22 23:59:07] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-22 23:59:07] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-22 23:59:07] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 00:00:32] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 00:00:33] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:00:33] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 00:00:40] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 00:00:45] [SUCCESS] [USB] Sincronização concluída
+[2026-05-23 00:01:08] [INFO] [LOCAL] Verificando alterações em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:01:17] [INFO] [WATCHER] LOCAL criado: testedefined.txt
+[2026-05-23 00:01:17] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 00:01:17] [INFO] [WATCHER] LOCAL alterado: .gitignore
+[2026-05-23 00:01:19] [SUCCESS] [LOCAL] Sincronização concluída
+[2026-05-23 00:02:35] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 00:02:35] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:03:24] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 00:03:25] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:03:46] [INFO] [LOCAL] Verificando alterações em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:11:01] [INFO] [WATCHER] LOCAL criado: Nuevo Documento de Texto.txt
+[2026-05-23 00:11:01] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 00:11:31] [ERROR] [WATCHER] Erro em LOCAL: já existe uma sincronização em andamento
+[2026-05-23 00:12:55] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 00:12:56] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:13:26] [INFO] [LOCAL] Verificando alterações em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:18:37] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 00:18:37] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:18:48] [INFO] [LOCAL] Verificando alterações em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:26:26] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 00:26:27] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 00:30:29] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 00:30:29] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP
+[2026-05-23 00:30:50] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP
+[2026-05-23 00:40:37] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 00:40:37] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP
+[2026-05-23 00:40:42] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP
+[2026-05-23 13:44:43] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 13:44:43] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP
+[2026-05-23 13:45:32] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP
+[2026-05-23 14:06:57] [ERROR] [LOCAL] error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+[2026-05-23 17:17:25] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 17:17:25] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP
+[2026-05-23 17:18:37] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 17:18:41] [INFO] [WATCHER] USB alterado: .gitignore
+[2026-05-23 17:19:11] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 17:19:17] [INFO] [WATCHER] USB removido: Nuevo Imagem de bitmap.bmp
+[2026-05-23 17:19:17] [INFO] [WATCHER] USB removido: Nuevo Microsoft Word Document.docx
+[2026-05-23 17:19:17] [INFO] [WATCHER] USB removido: O_AVESSO_COMPLETO.pdf
+[2026-05-23 17:19:17] [INFO] [WATCHER] USB removido: alfredo.txt
+[2026-05-23 17:19:17] [INFO] [WATCHER] USB removido: nada por quia.pptx
+[2026-05-23 17:19:17] [INFO] [WATCHER] USB removido: testedefined.txt
+[2026-05-23 17:19:19] [ERROR] [USB] error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-05-23 17:19:19] [ERROR] [WATCHER] Erro em USB: error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-05-23 17:19:23] [INFO] [WATCHER] USB criado: Nuevo Documento de Texto.txt
+[2026-05-23 17:19:25] [INFO] [WATCHER] USB criado: oi.txt
+[2026-05-23 17:19:25] [INFO] [WATCHER] USB removido: Nuevo Documento de Texto.txt
+[2026-05-23 17:19:55] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 17:20:04] [ERROR] [USB] fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+[2026-05-23 17:20:04] [ERROR] [WATCHER] Erro em USB: fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+[2026-05-23 17:20:05] [INFO] [WATCHER] USB alterado: .gitignore
+[2026-05-23 17:20:05] [INFO] [WATCHER] USB alterado: oi.txt
+[2026-05-23 17:20:33] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP
+[2026-05-23 17:20:35] [ERROR] [WATCHER] Erro em USB: já existe uma sincronização em andamento
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\A Carta - Milionário e José Rico [Y4JJSBkiUfI].mp3
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\A Gata do Bmw [95vU8szsL2A].mp3
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Amor Bandido [_wT4S9Hbv0s].mp3
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: oi.txt
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\1975 - Raul Seixas - A Maçã [J7w7qC_0Ihs].mp3
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\A Tentação [ooXwNoMWnNY].mp3
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\ANCESTRAIS - MILIONÁRIO E JOSÉ RICO [F_GH8vIk6A4].mp3
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Aluga-se - Raul Seixas [d3iI-ktX2WI].mp3
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Amanhã Eu Vou Lá Hoje [sx24DwsxAhM].mp3
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL alterado: .gitignore
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL criado: bbackup msc
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL removido: drive_bar
+[2026-05-23 17:20:43] [INFO] [WATCHER] LOCAL removido: drive_bar\etbilu.txt
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Bezouro Mangagá [HUmLKxwTy54].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Melô dos Camelôs [lEnkw953e_0].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Eu Não Gosto de Mentira [ENZXi4H8xhM].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Amor dividido [hGqh851YU_k].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Anitta & Marília Mendonça - Some Que Ele Vem Atrás (Official Music Video) [B9Zj3ydFh9g].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Aos trancos e barrancos - Raul Seixas [7jExiisStxQ].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - A Eleição no Inferno [8sCmSriy2zk].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - O Ladrão Pé de Chinelo e o Ladrão de Colarinho [lxRDYeM3Jd8].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Bar da Esquina [VZiNeo4oEeQ].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Bate Coração Que Você É Batedor [Q1d7geXqJ_o].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Desafio em Carreirão [u_dJQENoFqs].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - O Patrão e o Empregado [YRc7wVKciyQ].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Amor de Verão [p-yeYIkADrE].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Côco pra São João [5UlHwZ1jicw].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - A Feira de São Cristovão [L-f7BN5trr8].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Bote a Cabeça Só [7HAmGW18tJ4].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Eu Tenho Pena de Morrer e Deixar o Mundo [fYwbOn8GMGs].mp3
+[2026-05-23 17:20:45] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Melô da CPI [Z7WQUTCaR10].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - São Paulo X Corinthians [c5o_REp2nlc].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Camarão Que Dorme A Onda Leva [AtWkeKCf9Ck].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Anjo Protetor [xg5ifqIbzXg].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Aqui Se Faz Aqui Se Paga (EP 2019) [688BTGnjOHA].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Só Quero Ver o Sol Raiar [9OR4_ZiZIuY].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Beber, Roer e Chorar [kcjBgjx4v30].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Um Matuto na Capital [wSAtUU88dgI].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cansado De Viver Sozinho [JOQxsFUXzlI].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Anjo Meu [zK8KnKdvg60].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Roda Rodete e Rodiano [OCLSjuePGBs].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - São Paulo X Palmeiras [ndq6X_XjS-c].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - A Saudade Dói (Videoclipe Oficial) #BregaDeLuxo2 [BRRcfjMrPok].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - O Taxista [yG9R_aBj63Y].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cajú e Castanha - Só Quero me Casar se for com Quatro Muié [2dLgcNbzRYQ].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Canarinho do peito amarelo - Milionário & José Rico [Wp7GS8X6kvo].mp3
+[2026-05-23 17:20:47] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz  - Me Chama (EP 2019) [iFoWi2IHgWg].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Feito Um Cão Sem Dono (EP 2019) [j7yQzcEy7v0].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Quando Resolver Voltar [l2GvutQq6dw].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Choro e Bebo [XSKB6TPSG7k].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Brilho dos Seus Olhos (Brega de Luxo 2) LANÇAMENTO [3SVjIaQGvfo].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Coração Chora (EP 2019) [tWSHDpGqtSU].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - O Remédio é Beber (Videoclipe Oficial) [iXiXgv94rYY].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Paixão Mal Resolvida (Videoclipe Oficial) [cmm8gKjrBVk].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Pra Mim Valeu (EP 2019) [K9BqDVrZ8m0].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Me Deixa Ir (Part.  Toinho É Cia) [BvMPqRA14is].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Eu Vou Pro Bar Beber (Brega de Luxo 2) [VNcCoMelUPU].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Pra Sempre Nós - DVD ＂Nossa História＂ [haoofU4JBXI].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Casadinho de Novo (Brega de Luxo 2) [H3Q3QXtKFCg].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Onde Anda Você [9apziy5sxnY].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Cê Ama Eu (Videoclipe Oficial) [LjdZQhxrd2k].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Pode Chorar (EP Acústico) [8L_hRWdxcUE].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Saudade Mora Aqui (Videoclipe Oficial) [RvDqu2bSjhk].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Pode ir (Brega de Luxo 2) [fc5kTkbsYm8].mp3
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:20:49] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Menina Morena [yW5DL1AaE4A].mp3
+[2026-05-23 17:20:51] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Sozinho (Brega de Luxo 2) [5__lj0o_hyg].mp3
+[2026-05-23 17:20:51] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cicatrizes [IvevvuPZfEE].mp3
+[2026-05-23 17:20:51] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:20:51] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Vou Sumir Daqui (EP Acústico) [mkTMLc7Cz7E].mp3
+[2026-05-23 17:20:51] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Solidão [WKBVlAe9YAQ].mp3
+[2026-05-23 17:20:51] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ceian Muniz - Vai Pagar Dobrado [Ikztx37jTN8].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Fera Mulher [VB5oBMhnFcg].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Fruto Proibido [2JjSmFZ1-Hg].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Duvido Você Não Tomar uma [R7LoGudhNu0].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Eu também vou reclamar - Raul seixas [M1vXVLnj3Bc].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Gigantes do Samba, Raça Negra, Só Pra Contrariar - Cigana (Ao Vivo) [9slIzz4yZIo].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Em Tom Maior [ND61b1x5sCc].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\DVD-Milionario e José rico - Solidão [aPdAhyh308k].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Cristiano neves vol 7 tou querendo você CD completo [4uoTYd5lSQY].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Decida - Milionário e José Rico [Mj3NmES44kw].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\DVD-Milionario e José rico - Vontade Dividida [YpdQc0wzi2s].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Gigantes do Samba, Raça Negra, Só Pra Contrariar - Deus Me Livre (Ao Vivo) [cJtCyqB2uFg].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Estrada da vida Milionario e José rico [rxX1bmHsh-Q].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Fusca a Gás (Ao Vivo) [5jqAwG-sCMA].mp3
+[2026-05-23 17:20:53] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\E Agora [xfDCRFjLEiU].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Gigantes do Samba, Raça Negra, Só Pra Contrariar - Quando Te Encontrei (Ao Vivo) [K6uO_j6OP20].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\MEDO DA CHUVA -RAUL SEIXAS [vV21CaatJ14].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Alô Porteiro (Vídeo Oficial) [a1w0lsZX8Lk].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Amante Não Tem Lar (Realidade - Ao Vivo) [OT7PpQEz7rc].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Levanta Esse Deitado [AhiRjN-MoJw].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça & Maiara e Maraisa - A Culpa é Dele (Agora Que São Elas 2 - Vídeo Oficial) [0fHKqwhdNJ8].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Abandono de Incapaz  (Todos Os Cantos - Ao Vivo) [plNjJKTfat4].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Maluco Beleza - Raul Seixas [KobmJoCKKjY].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Love Love [j765yEwHHcM].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça & Maiara e Maraisa - Bebaça (Todos Os Cantos - Ao Vivo) [g8VSOYAnbEM].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Levanta o Copo [wWzVRURdJmY].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marciano Part. Milionário & José Rico - Esta Noite Como Lembrança - Inimitável [5ioCDdDsjK0].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Maria Bethânia e Zeca Pagodinho ｜ Verdade (Vídeo Oficial) [Itl0lJ4uvkU].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Maria Bethânia, Zeca Pagodinho - Sonho Meu [0f9PBsnFmmc].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Gigantes do Samba, Raça Negra, Só Pra Contrariar - É Tarde Demais (Ao Vivo) [fOGVqrMJiTw].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - A Gente Não Se Aguenta (Realidade - Ao Vivo) [Way9cIOUs4k].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Isso É Ser Feliz [vsCXMJp92dM].mp3
+[2026-05-23 17:20:55] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Londres ou Canadá [gYlayL24icU].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Esse Cara Aqui Do Lado (Vídeo Oficial) [M0y38wobAyo].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Até O Tempo Passa (Realidade - Ao Vivo) [BgcsPtsJTmI].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Essas Nossas Brigas (Vídeo Oficial) [9B7_KTYrTeM].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Ciumeira (Todos Os Cantos - Ao Vivo) [KbRtA_brCQ0].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Eu Não Sou Novela (Realidade - Ao Vivo) [NN3_g4T3Kok].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Eu Sei De Cor (Agora é Que São Elas - Vídeo Oficial) [2QTCKfVN1ZE].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Amigo Emprestado (Todos os Cantos - Ao Vivo) [ckvH8KD_ovc].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Ausência (Agora Que São Elas 2 - Vídeo Oficial) [wje4zcGgSqA].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Como Faz Com Ela (Vídeo Oficial) [JPWjJlNtE_w].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Bebi Liguei (Todos Os Cantos - Ao Vivo) [2nH7xAMqD2g].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Entre Quatro Paredes (Vídeo Oficial) [TOTV-LPQz4I].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Eu Sei De Cor (Realidade - Ao Vivo) [sS2yCCi2Mek].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Ei Saudade (Realidade - Ao Vivo) [f9C9aBUQVOg].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Coração Mal Assombrado (Agora É Que São Elas 2 - Vídeo Oficial) [EIV2B1A0RkY].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - De Quem É A Culpa？ (Realidade - Ao Vivo) [5hnSlCygsTs].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Bye Bye (Todos Os Cantos - Ao Vivo) [tnfbhjbbmu4].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Estranho (Agora Que São Elas 2 - Vídeo Oficial) [2WsIm6pNlI4].mp3
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:20:57] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Bem Pior Que Eu (Todos Os Cantos - Ao Vivo) [ebG36xtK87A].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Saudade Do Meu Ex (Agora é Que São Elas - Vídeo Oficial) [TMar-QdQPlc].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Infiel (Vídeo Oficial) [eCyMh-mZ1B0].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - O Que É Amor Pra Você (Vídeo Oficial) [wqtRqLWe8Uo].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Obrigado Por Estragar Tudo (Todos Os Cantos - Ao Vivo) [ZXkagTSErdM].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Passa Mal (Todos Os Cantos - Ao Vivo) [OQ59_5ejr24].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - O Que Falta Em Você Sou Eu (Vídeo Oficial) [CxKRaR6kFYs].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Perto de Você (Realidade - Ao Vivo) [3MRej_lv4ks].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Quatro e Quinze (Vídeo Oficial) [RRozxcyu0kI].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Meu Cupido É Gari (Vídeo Oficial) [cUsYWdJzmeM].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Por Mais 3 Horas (Realidade - Ao Vivo) [ivlDh1YEi6U].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Love À Queima Roupa (Todos Os Cantos - Ao Vivo) [s_4Wdj7ajSA].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Parece Namoro (Agora Que São Elas 2 - Vídeo Oficial) [gqYHksX0Z_M].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Folgado (Vídeo Oficial) [2HwD3wliSgw].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Me Desculpe Mas Eu Sou Fiel (Vídeo Oficial) [hP23CNAyPQ4].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Nem Foi E Já Voltou  (Realidade - Ao Vivo) [K6ScoGai3A0].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Olha Só Você (Realidade - Ao Vivo) [OWSDq4_8NiA].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Sem Sal (Todos Os Cantos - Ao Vivo) [czOoOSLVwRI].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Não Casa Não (Vídeo Oficial) [GLIn9ohPm_o].mp3
+[2026-05-23 17:20:59] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Se Ame Mais (Realidade - Ao Vivo) [UudUvcOZyMw].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Meu Dia Foi Ontem [MK8kmvtrLdQ].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça feat. Gaab - Intenção (Todos Os Cantos - Ao Vivo) [1qKz_QohN7g].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Sofrendo Por 3 (Realidade - Ao Vivo) [IvPWEdnpWHU].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Metade de Mim [InKXBBB_tZs].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Silêncio (Vídeo Oficial) [rEPjVthTNWg].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça feat. Henrique e Juliano - Impasse (Vídeo Oficial) [HL_uHQDi_0w].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Serenata (Todos Os Cantos - Ao Vivo) [noKzDrxHioc].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Sentimento Louco (Vídeo Oficial) [mdiX9gfiBjU].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Supera (Todos Os Cantos - Ao Vivo) [7fMttPxpcmg].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Traição Não Tem Perdão (Realidade - Ao Vivo) [MHE3lM6nStU].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Mensagem de Amor [eSOb6HuZ4GI].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça feat. Léo Santana e Didá Banda Feminina - Apaixonadinha (Todos Os Cantos - Ao Vivo) [1eZXuqrq910].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Mesa de Bar (Brega de Luxo 2) - Ceian Muniz [NG6RNR0AYvU].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Meus Braços Te Esperam [4Q4bTcrQRBQ].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça feat. Henrique e Juliano - Casa Da Mãe Joana (Todos Os Cantos - Ao Vivo) [hdjERtU7lMk].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça - Todo Mundo Vai Sofrer (Todos Os Cantos - Ao Vivo) [ILADw1aretk].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça feat. Bruno e Marrone - Transplante (Vídeo Oficial) [wvln6hFsq1s].mp3
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:21:01] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Marília Mendonça feat. Henrique e Juliano - Mudou A Estação (Realidade - Ao Vivo) [-IYIVmoEXa8].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e Jose Rico - Tribunal do Amor [lL8msKyD0-4].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico - Anjo Loiro. [kmUwyMPDmoQ].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico - Sonhei Com Você [9yFujEQ6Kww].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico-Do Mundo Nada Se Leva [66y0VuXMdmE].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\No Bar [gkzOZWGs5ow].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário & José Rico - Vá Pro Inferno Com Seu Amor [dUTagKN2_rk].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico Tristeza [jN7j3qbtstQ].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionario e  Jose Rico - Corpo e Alma [n33ahRoAmww].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Nesta Cidade [_EwBQJusarw].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico - O Último Julgamento. [7Nhdwuylr1s].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionario e José rico Saudade da minha terra [q_RHkDVPDAI].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Mosca na Sopa - Raul Seixas [uILahrIRiMA].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico - Dê Amor para Quem te Ama [NJjXHqmVs-E].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário & José Rico - Viva a Vida! ｜ DVD Ao Vivo [XGN-UH9Ii_Y].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionario e Jose Rico - Caminheiro.mp4 [sQu6TE76IWE].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico - Quem Disse Que Esqueci [6JrTp5KvbTs].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário & José Rico - Solidão [qIDSHfB6wgU].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico   Jogo do Amor [rs3kNruWkMo].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Mulher Congelador [fuLqEKaRP6M].mp3
+[2026-05-23 17:21:03] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Milionário e José Rico-O dia da vitoria [yMJ9Hv-Hcng].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Como vovó já dizia. [wsNkL0LLFWw].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Cowboy fora da lei (Áudio HQ) [tT1pLyVxAAQ].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Pombinha branca (Vola colomba) [0clT5oQvokA].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Preciso Ter Alguém (Ao Vivo) [A3E6Dwg8CyA].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Al Capone [jGUVnolU9QE].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Pastor João e a Igreja invisivel - Raul Seixas e Marcelo Nova [z5UU7cRhOKM].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raparigueiro da Roça [huSVC9_2_84].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Capim Guiné [gC8ElYcjevY].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Ondas Do Mar [jtdju1Zmgrw].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Perdôa [3nPkxk16nYs].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Quem Tem Ciúmes, Tem Amor no Coração [ExDXmDrW4Ls].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Não Quero Falar Com Ela [Glzh33dran0].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raiva De Voce [wMHrtEdiaCw].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Oi [4Ng4BW-Tsc8].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Posto de Gasolina [YptuHR3qOPM].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Passa a Mão no Boi [_6sw3jU0vZw].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Pergunte ao Dono do Bar [fILSeYxuLf8].mp3
+[2026-05-23 17:21:05] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Abre- te Sésamo [7CFf_6Ow47c].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - How could i know [YnIhdnO93O4].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Gitá (Áudio HQ) [3VxNODAFlwY].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Meu amigo Pedro [M-CFU2V7YF0].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - Cheia de Manias part. Thiaguinho (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [lxNd6LRi-PQ].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Tente outra vez (Áudio HQ) [TR4oKmcZ3T4].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - A Vida Inteira part. Eduardo Costa (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [gMFA2bA3AHo].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - Cheia De Manias (DVD Raça Negra & Amigos) [Video Oficial] [uJz0F36TGoc].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Paranóia. [DNhZ4HvCrA8].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - O trem das sete (Áudio HQ) [1sAd6fUMxlI].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul seixas- Metamorfose ambulante [7VE6PNwmr9g].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - Cigana part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [4ESVsb6Q85c].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Metrô Linha 743 (Metrô Linha 743) [Áudio Oficial] [a_sJS4vwjC0].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - O dia em que a terra parou (Áudio HQ) [yYtx_QnSRaQ].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - o Rock das ＂Aranha＂ [e6skWXELXrg].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas Ouro de tolo [cn0S56WPkjQ].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas： ＂Let Me Sing＂ [9QKv0X-PS-0].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - Dono do Seu Beijo Part. Xand Avião (DVD Raça Negra & Amigos 2) [Video Oficial] [4p0NI2tOmkE].mp3
+[2026-05-23 17:21:07] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raul Seixas - Sociedade Alternativa [IZdbkC_yobU].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\TU es O MDC DA MINHA vida Raul Seixas [li8EEGSxSSo].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - É Tarde Demais part. Leonardo (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [2E1gDZ1ENpQ].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Só Quem Ama Sabe [cNAtN3jPJzY].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - Sozinho⧸Estou Mal⧸Volta (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [fVFp1fRFZNU].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Vem Falar De Amor (Videoclipe Oficial) - Ceian Muniz [KcsAG_srmSI].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Solidão Não [xiDsFOtPNdQ].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - Me Leva Junto Com Você (Raça Negra & Amigos 2) [Vídeo Oficial] [WsMEtX2NtYw].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Solidão Nunca Mais [r014Mt-AM9E].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - Vai Curtir, Vai Dançar part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [zaRhSszSHCE].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Sonho de um Caminhoneiro - Milionário e José Rico - Legendado - sApiN [KQ1FMl5mxKQ].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Traz a Minha Paz [9h5zSTKBGVs].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Tô Bebendo de Mais [W1tXlquSugs].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Saudade da Pequena [J07-jb4xcio].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Sessenta dias apaixonado [Jt8Qe2MIGbM].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Tem Mulher Chorando [6hpn3uit5f8].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Um Dia Você Vai Chorar (A Moto) [_f-Zj-qi6yY].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Raça Negra - Preciso Dar Um Tempo (Raça Negra, Vol. 9) [Áudio Oficial] [R9B5r5MsLHg].mp3
+[2026-05-23 17:21:09] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Seu Polícia [59iJwsb69oo].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Quando A Gira Girou [Nm5N4iFLU0g].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho e Nelson Rufino： Verdade [7BIESKu_zDU].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Água Da Minha Sede [oQrIqm4p02Q].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Eta Povo Pra Lutar [4CZIuNQ05BU].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Chico não Vai na Curimba [uO20tyydhoQ].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Em Um Outdoor [JcacRCEGwwQ].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Viva a Vida e O Tropeiro, por Milionário e José Rico [9mEP0zaZ_7A].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Sambas Pras Moças [_6fqeF5jafo].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\É Tarde Demais (Ao Vivo) [d-_b8lrtL2o].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Pisa Como Eu Pisei [voY-THeekpg].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - O Dono da Dor [TPTqmkUTf7g].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Õ de Casa, Ô de Fora (Ao Vivo) [_zhfEV3dZBM].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Vai Vadiar [5UIQyuFbFzs].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\A loira do carro branco [7W0CIlcbm38].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Vestido de Seda, Paixão Proibida [lmHXTIeCRKM].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Caviar (Clipe original) [4rkr4kTo9nY].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Lama nas Ruas [Xu1ye4TOJKs].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Ser Humano [ZXTtCESS5bE].mp3
+[2026-05-23 17:21:11] [INFO] [WATCHER] LOCAL criado: bbackup msc\mscs novas\Zeca Pagodinho - Deixa A Vida Me Levar [oTREAvZbmME].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Bruno & Marrone - Dormi na Praça (Ao Vivo) [uWX0O8ATY3k].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Calcinha Preta - Paulinha - #DVDComoNãoAmar (Ao Vivo em Belém-PA) [pGk6G9tjFmA].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Chitãozinho & Xororó - Página de Amigos [8N-6CSOyCU4].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Ainda Ontem Chorei De Saudade [0WpfvN2JYdU].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Chico Rey & Paraná - Você Não Sabe Amar (Ao Vivo Vol. 1)(Vídeo Oficial) [S3mwn1FLgXE].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Chico Rey e Paraná - Canarinho prisioneiro [bVE9tEDqs5E].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Calcinha Preta - Ainda Te Amo - @CalcinhaPreta_ [AhExS3rvtfM].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Chico Rey & Paraná - Alma Transparente (Ao Vivo Vol. 1)(Vídeo Oficial) [DJJJZCnUUx0].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL alterado: bbackup msc
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL alterado: bbackup msc\mscs novas
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Chrystian & Ralf - Acústico - Cheiro de Shampoo [g4f8a0Yx9Qw].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Declaração de amor [BU4bPzkPqf0].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Chitãozinho & Xororó - Alô [gXVPbXmV1I4].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Cada Volta é um Recomeço [JPNDEZb9RAQ].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Daniel Oficial - João Paulo e Daniel - Só dá você na minha vida [2pa75DiqL18].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Amor dividido Leandro e Leonardo [LCVBHUG23iA].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Doce mistério [RGeAWhwWpmU].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL alterado: bbackup msc\musicas
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Entre Ela e Eu (Sou Eu) [WJVUPxLyms8].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Bruno & Marrone - Vida Vazia (Ao Vivo) [R_6MeYnDr_Q].mp3
+[2026-05-23 17:21:13] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Amado Batista - Não Quero Falar Com Ela (Videoclipe) [Z-Crxj8rHOc].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima -  Balada do Buteco (O Embaixador The Legacy) [0neb4BOVILE].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Estrada da vida [3rBrBaaZ3Rk].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gino & Geno - Ela Chorou De Amor (Ao Vivo)(Vídeo Oficial) [TlGLG92ZoJA].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Em Qualquer Lugar (Buteco in Boston) [lYtDqSc78Jo].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Ex dos Meus Sonhos (Ao Vivo em Goiânia) [d7NMHcIecCE].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL alterado: bbackup msc\musicas
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Fim de semana sem você [mk6O_3Y7tAA].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Esta Noite Como Lembrança [j7P2KU3rDHI].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - DESEJO IMORTAL (Ao vivo no Mineirão) [-UUe7g8-E0k].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Café e Amor (O Embaixador The Legacy) [mFsHA1WDm0g].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Cidade Acordada #Embaixador15Anos [ha3wJGIz72M].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - 30 Cadeados Part. Mari Fernandez ｜ DVD Paraíso Particular [Yi9zr5CNQJs].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Esse amor que me mata [em0z-auPk9Y].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Canudinho Part. Ana Castela ｜ DVD Paraíso Particular [h09p0IGiKaE].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Cara da Derrota (Ao Vivo em Goiânia) [Nosy-f5WOBk].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Declaração de Amor (Buteco In Boston) [hlDeoN534NE].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Golpes y besos [Cri0Bp_6Pz0].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Eu tava Lá (Buteco In Boston) [L1WvfXBg5sk].mp3
+[2026-05-23 17:21:15] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Bloqueado (Buteco In Boston) [14C28JSO-sg].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - I Love You Baby (Buteco In Boston) [ivKeKU-bTB8].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Mala dos Porta Mala part. Matheus e Kauan ｜ DVD Paraíso Particular [3zNabdrryYM].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Por Um Minuto - Falando de Amor [r_yhREbppbI].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Ficha Limpa (Buteco in Boston) [ZWlZR2HKIQA].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - O Ex da Sua Vida (Buteco in Boston) [AIoJl8plSWg].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Não Me Arranha (Buteco in Boston) [CGbvMQ7xDtE].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Ficha Limpa - Falando de Amor [_7DKuv_xsuY].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL alterado: bbackup msc\musicas
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Larga Essa Rua (Buteco in Boston) [xVu3AjRWudM].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Mordidinha ｜ DVD Paraíso Particular [zZiyCDUP5UQ].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Na Hora de Amar (Spending My Time) - DVD O Embaixador (Ao Vivo) [Uo7U7ruedic].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - O Ex da Sua Vida - Falando de Amor 2 [zyavwRbnOyQ].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Inventor Dos Amores (Buteco in Boston) [EhTHFN4M8yI].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Nota de Repúdio (Buteco in Boston) [y1TtVi6qm98].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Fala Mal de Mim (Ao Vivo em Maceió) [hOGuaMazCz8].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Não Pega Ninguém Ainda (Ao Vivo em Belo Horizonte) [y3FdInN6n48].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Lado Emocional (Buteco In Boston) [GUE1Ilp8lVg].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Oficializar Part. Maiara & Maraisa ｜ DVD Paraíso Particular [ARYMAKnI0pk].mp3
+[2026-05-23 17:21:17] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Pendência (Buteco In Boston) [GBQEYYSjEpY].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Você Mudou - Falando de Amor 2 [wZi6ls2K9Is].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Henrique e Juliano - Como É Que A Gente Fica - DVD Novas Histórias - Ao vivo em Recife [BA0x0ScUAvQ].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Saudade da Minha Vida (Ao Vivo no Buteco São Paulo) [Jm5MCIVwjas].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Solteiro Frustrado #Embaixador15Anos [KWp54ZJ2Q0E].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Se (Buteco in Boston) [nzy9rR0SsFY].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Henrique e Juliano - Deixa Ela Saber - DVD Novas Histórias - Ao vivo em Recife [_dgdBjlMXMA].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Quebrando Protocolo feat. Dendelzinho (Buteco In Boston) [HYuWGkQhkeo].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Te Amo Cada Vez Mais (Buteco in Boston) [gvwZJQL7x5w].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL alterado: bbackup msc\musicas
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima – Milu – DVD O Embaixador In Cariri (Ao Vivo) [_XF7jhSPo-Q].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Prefiro Nem Saber (Buteco in Boston) [OzdNh5NrWEc].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Heitor & Henrique, Luiza Martins  - O Bagulho É Louco [Sem Freio] [v6-bl-N8y0Y].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Relação Errada Part. Bruno & Marrone ｜ DVD Paraíso Particular [y4IIym6BmX0].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Saudade Fudida (Ao Vivo em Goiânia) [HycgJuSa9jo].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Tempo de Beber (Buteco In Boston) [SvaDIf6uTAc].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Termina Comigo Antes  (Ao Vivo em Porto Alegre) [rTJSWmgbVwA].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Heitor & Henrique - Meio Tonto  [Sem Freio] [Zq5ng31jTOU].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Torce o Olho - Part. Hugo & Guilherme ｜ DVD Paraíso Particular [FHIlv6Zl9n4].mp3
+[2026-05-23 17:21:19] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Gusttavo Lima - Teste de Fármacia (Buteco in Boston) [notLoIbFhJM].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Jorge & Mateus - Pergunta Boba - Part.  Maestro Pinocchio (Vídeo Oficial) [UcXckYdkSDQ].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Liguei Pra Dizer Que Te Amo [z8OYr39eeuM].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Luan Santana - Café com leite (DVD Luan Santana Acústico) [7AQDWQAPw84].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marília Mendonça - Como Faz Com Ela (Vídeo Oficial) [JPWjJlNtE_w].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Henrique e Juliano - Ele Quer Ser Eu - DVD Novas Histórias - Ao vivo em Recife [IgEGq_QgrqY].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Jorge & Mateus - Sosseguei (Como Sempre Feito Nunca) [Vídeo Oficial] [vZcjAmfkemk].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Maiara e Maraisa - 90⧸10 ｜ MELHOR QUE IMAGINEI [g5qvb2zxAFQ].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL alterado: bbackup msc\musicas
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Henrique e Juliano - Flor E O Beija-Flor part. Marília Mendonça - DVD Novas Histórias [LmRrLl8aLfE].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Henrique e Juliano - Nada, Nada - DVD Novas Histórias - Ao vivo em Recife [7j4GOkPJyWI].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Luan Santana - Chuva de arroz (DVD Luan Santana Acústico) [rTsbSY04s1Y].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marília Mendonça - Essas Nossas Brigas (Vídeo Oficial) [9B7_KTYrTeM].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Jorge & Mateus - Como Não Me Apaixonar (Os Anjos Cantam) [Áudio Oficial] [J96pIUD_OEY].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Leandro e Leonardo - O quanto nosso amor valeu [0U0-ITxDqZ0].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marília Mendonça - Alô Porteiro (Vídeo Oficial) [KFJIBTeUMF8].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Leonardo - Eu Juro (I Swear) [Ao Vivo] [NJe4AQ72d8M].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marcos e Fernando - Trocaria Tudo part. Henrique e Juliano ( Vídeo Oficial do DVD ) [lcP-Kfv_394].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Horizonte azul [hgse7HJ-esM].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Hoje Eu Quero Te Amar [PbVTI39g5LQ].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Maiara & Maraisa - 80 NOMES ｜ MELHOR QUE IMAGINEI [W1byZPrdO0Q].mp3
+[2026-05-23 17:21:21] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Luan Santana - Promete (DVD O nosso tempo é hoje) [_wSCcZv4FDs].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Não aprendi a dizer adeus [Bq4tj2sQs1k].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Ouvindo Seresta - Thainara & Thatiane, Laércia Dantas [XSMQnmlyY6Y].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Minha estrela perdida [qognufybh9k].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Matheus & Kauan - Se Tem Paixão [S_o18yaGeHw].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Matheus & Kauan - Te Amo À Beça [xEBFajTpA2Q].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\O Grande Amor da Minha Vida (Convite de Casamento) [jaNPUc2aspQ].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marília Mendonça - Sentimento Louco (Vídeo Oficial) [mdiX9gfiBjU].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marília Mendonça feat. Henrique e Juliano - Impasse (Vídeo Oficial) [HL_uHQDi_0w].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Matheus & Kauan - Sete Mares - [DVD Mundo Paralelo] (Clipe Oficial) [EN-2obhg4To].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Não Tenha Dúvida [I96Y-Pi-0pw].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Pense em mim [rCq4r2ct94U].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\No Mesmo Lugar (Coisa Estranha) [ohbXpYSxnOU].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marília Mendonça - Hoje Somos Só Metade (Vídeo Oficial) [4FDIWr0K6sA].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marília Mendonça - Infiel (Vídeo Oficial) [eCyMh-mZ1B0].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Marília Mendonça - O Que Falta Em Você Sou Eu (Vídeo Oficial) [CxKRaR6kFYs].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Na Hora De Amar [lJYbyzBkc2k].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Meu Coração Só Quer Chorar [tNRFp3g9ORc].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\O Amor É Feito De Momentos - Léo Augusto & Eduardo [jp6DioGW2Ys].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Não durmo sem ela [ZplYAoloRfQ].mp3
+[2026-05-23 17:21:23] [INFO] [WATCHER] LOCAL alterado: bbackup msc\musicas
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Reginaldo Rossi e Roberta Miranda - Amanhã [_-kpXGSiaOQ].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - Dois Corações e Uma História (Live Video) [M2px6py3WYA].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Rick & Renner - Preciso Te Encontrar [HmGdfhd6U7Q].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Talismã [2xrppJrllv8].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - Coração Está em Pedaços (Clipe Oficial) [jqJpikFKO5w].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - Indiferença (Ao Vivo) [ol5BeU4HXXc].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Teodoro & Sampaio - Vestido de seda [DVD 30 Anos - Ao vivo] [Jq9f2TFmp08].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Sublime renuncia [sMcmG2eLBXU].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Sonho por sonho [Y-TY4dWF3-0].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Preciso Ser Amado [95bee5-xXy8].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Rionegro & Solimões - Peão Apaixonado (Ao Vivo) [jcmv9twd26s].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Toma Juízo [oEgy3sLlCps].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Rumo á Goiânia [Za-ELsZthcE].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Rick & Renner - Ela é demais (Clipe Oficial) [nLoTi-E442M].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Simone e Simaria - Meu Violão e o nosso Cachorro [Clip Oficial] [KqOzrrpAAjY].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Teodoro & Sampaio - Passe livre (part. Leonito) [DVD 30 Anos - Ao vivo] [l8tEkOeIPnI].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL alterado: bbackup msc\musicas
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Rionegro & Solimões - Frio Da Madrugada (Ao Vivo) [iL2jWRhFTtA].mp3
+[2026-05-23 17:21:25] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Temporal de amor [3Rik4-6ikRg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - Sem Medo de Ser Feliz (Ao Vivo) [xhrpaq3ec0I].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: responsaveis.js
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL alterado: bbackup msc
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL alterado: bbackup msc\musicas
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo -  Me Leva Pra Casa ( Voz & Violão) [_eBjVFjHYK8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - Saudade Bandida (Clipe Oficial) [0UGf4BvHuMQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - No Dia em Que Eu Saí de Casa (Ao Vivo) [5ukX7atxjeI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - Será Que Foi Saudade ？ (Ao Vivo) [62ippjVhLdc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\♫♥♪Cleiton e Camargo-Quand um grande amor se faz♫♥♪ [sJ1tHP9kXCw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\É o Amor [XTkFAKb8kbo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - É Minha Vida (Áudio Oficial) [v_aOmXFm398].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zé Neto e Cristiano - Abaixa o Som - Part Marília Mendonça (DVD Ao vivo em São José do Rio Preto) [BRshAjXGk7Y].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zé Neto e Cristiano - Eu Ligo Pra Você (DVD Ao vivo em São José do Rio Preto) [SBKvDoCqKRc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Índia (Índia) [eDMuy2WYK5Y].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - Linda, Linda (Áudio Oficial) [Tj_bUPHxGLI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - Pra Não Pensar em Você (Ao Vivo) [JPITxZbf5H4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL criado: bbackup msc\musicas\Zezé Di Camargo & Luciano - É o Amor (Ao Vivo) [LsWA1b_iCE4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Eu Vou Pro Bar Beber (Brega de Luxo 2) [VNcCoMelUPU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Vai Pagar Dobrado [Ikztx37jTN8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Não Quero Falar Com Ela [Glzh33dran0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Inventor Dos Amores (Buteco in Boston) [EhTHFN4M8yI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Eu Tenho Pena de Morrer e Deixar o Mundo [fYwbOn8GMGs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cansado De Viver Sozinho [JOQxsFUXzlI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\DVD-Milionario e José rico - Vontade Dividida [YpdQc0wzi2s].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Levanta Esse Deitado [AhiRjN-MoJw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Eu Sei De Cor (Realidade - Ao Vivo) [sS2yCCi2Mek].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Obrigado Por Estragar Tudo (Todos Os Cantos - Ao Vivo) [ZXkagTSErdM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Seu Polícia [59iJwsb69oo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Sofrendo Por 3 (Realidade - Ao Vivo) [IvPWEdnpWHU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico-O dia da vitoria [yMJ9Hv-Hcng].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - O Ex da Sua Vida - Falando de Amor 2 [zyavwRbnOyQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Maiara & Maraisa - 80 NOMES ｜ MELHOR QUE IMAGINEI [W1byZPrdO0Q].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\A Carta - Milionário e José Rico [Y4JJSBkiUfI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Pode Chorar (EP Acústico) [8L_hRWdxcUE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Maria Bethânia, Zeca Pagodinho - Sonho Meu [0f9PBsnFmmc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Vestido de Seda, Paixão Proibida [lmHXTIeCRKM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Bruno & Marrone - Dormi na Praça (Ao Vivo) [uWX0O8ATY3k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima – Milu – DVD O Embaixador In Cariri (Ao Vivo) [_XF7jhSPo-Q].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Meu Coração Só Quer Chorar [tNRFp3g9ORc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - São Paulo X Corinthians [c5o_REp2nlc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Love Love [j765yEwHHcM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Maluco Beleza - Raul Seixas [KobmJoCKKjY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - Cigana part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [4ESVsb6Q85c].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Chico Rey e Paraná - Canarinho prisioneiro [bVE9tEDqs5E].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Solidão [WKBVlAe9YAQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Eu Sei De Cor (Agora é Que São Elas - Vídeo Oficial) [2QTCKfVN1ZE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas Ouro de tolo [cn0S56WPkjQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Amado Batista - Não Quero Falar Com Ela (Videoclipe) [Z-Crxj8rHOc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Por Um Minuto - Falando de Amor [r_yhREbppbI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Jorge & Mateus - Sosseguei (Como Sempre Feito Nunca) [Vídeo Oficial] [vZcjAmfkemk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Maiara e Maraisa - 90⧸10 ｜ MELHOR QUE IMAGINEI [g5qvb2zxAFQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - A Saudade Dói (Videoclipe Oficial) #BregaDeLuxo2 [BRRcfjMrPok].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Pra Mim Valeu (EP 2019) [K9BqDVrZ8m0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Você Mudou - Falando de Amor 2 [wZi6ls2K9Is].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marília Mendonça - Infiel (Vídeo Oficial) [eCyMh-mZ1B0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Me Deixa Ir (Part.  Toinho É Cia) [BvMPqRA14is].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico - Anjo Loiro. [kmUwyMPDmoQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Calcinha Preta - Paulinha - #DVDComoNãoAmar (Ao Vivo em Belém-PA) [pGk6G9tjFmA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Ficha Limpa (Buteco in Boston) [ZWlZR2HKIQA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Amor dividido [hGqh851YU_k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Metade de Mim [InKXBBB_tZs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marília Mendonça - O Que Falta Em Você Sou Eu (Vídeo Oficial) [CxKRaR6kFYs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Estrada da vida Milionario e José rico [rxX1bmHsh-Q].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Gigantes do Samba, Raça Negra, Só Pra Contrariar - É Tarde Demais (Ao Vivo) [fOGVqrMJiTw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marciano Part. Milionário & José Rico - Esta Noite Como Lembrança - Inimitável [5ioCDdDsjK0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Esse Cara Aqui Do Lado (Vídeo Oficial) [M0y38wobAyo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Chico Rey & Paraná - Você Não Sabe Amar (Ao Vivo Vol. 1)(Vídeo Oficial) [S3mwn1FLgXE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Fim de semana sem você [mk6O_3Y7tAA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Vou Sumir Daqui (EP Acústico) [mkTMLc7Cz7E].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Gigantes do Samba, Raça Negra, Só Pra Contrariar - Cigana (Ao Vivo) [9slIzz4yZIo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Traição Não Tem Perdão (Realidade - Ao Vivo) [MHE3lM6nStU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Meus Braços Te Esperam [4Q4bTcrQRBQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionario e Jose Rico - Caminheiro.mp4 [sQu6TE76IWE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Cowboy fora da lei (Áudio HQ) [tT1pLyVxAAQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Gitá (Áudio HQ) [3VxNODAFlwY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - Cheia de Manias part. Thiaguinho (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [lxNd6LRi-PQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Aqui Se Faz Aqui Se Paga (EP 2019) [688BTGnjOHA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça & Maiara e Maraisa - A Culpa é Dele (Agora Que São Elas 2 - Vídeo Oficial) [0fHKqwhdNJ8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Ciumeira (Todos Os Cantos - Ao Vivo) [KbRtA_brCQ0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - Me Leva Junto Com Você (Raça Negra & Amigos 2) [Vídeo Oficial] [WsMEtX2NtYw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Deixa A Vida Me Levar [oTREAvZbmME].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Amor dividido Leandro e Leonardo [LCVBHUG23iA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Em Qualquer Lugar (Buteco in Boston) [lYtDqSc78Jo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Fala Mal de Mim (Ao Vivo em Maceió) [hOGuaMazCz8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - A Feira de São Cristovão [L-f7BN5trr8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Roda Rodete e Rodiano [OCLSjuePGBs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Gigantes do Samba, Raça Negra, Só Pra Contrariar - Deus Me Livre (Ao Vivo) [cJtCyqB2uFg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Saudade Do Meu Ex (Agora é Que São Elas - Vídeo Oficial) [TMar-QdQPlc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marília Mendonça - Hoje Somos Só Metade (Vídeo Oficial) [4FDIWr0K6sA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - O Ladrão Pé de Chinelo e o Ladrão de Colarinho [lxRDYeM3Jd8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Camarão Que Dorme A Onda Leva [AtWkeKCf9Ck].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Não Casa Não (Vídeo Oficial) [GLIn9ohPm_o].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Mesa de Bar (Brega de Luxo 2) - Ceian Muniz [NG6RNR0AYvU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Saudade da Pequena [J07-jb4xcio].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\TU es O MDC DA MINHA vida Raul Seixas [li8EEGSxSSo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marília Mendonça feat. Henrique e Juliano - Impasse (Vídeo Oficial) [HL_uHQDi_0w].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Minha estrela perdida [qognufybh9k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Menina Morena [yW5DL1AaE4A].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Alô Porteiro (Vídeo Oficial) [a1w0lsZX8Lk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Doce mistério [RGeAWhwWpmU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Anjo Meu [zK8KnKdvg60].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Todo Mundo Vai Sofrer (Todos Os Cantos - Ao Vivo) [ILADw1aretk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Mulher Congelador [fuLqEKaRP6M].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Pastor João e a Igreja invisivel - Raul Seixas e Marcelo Nova [z5UU7cRhOKM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Sessenta dias apaixonado [Jt8Qe2MIGbM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Tô Bebendo de Mais [W1tXlquSugs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Canudinho Part. Ana Castela ｜ DVD Paraíso Particular [h09p0IGiKaE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Heitor & Henrique, Luiza Martins  - O Bagulho É Louco [Sem Freio] [v6-bl-N8y0Y].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Gigantes do Samba, Raça Negra, Só Pra Contrariar - Quando Te Encontrei (Ao Vivo) [K6uO_j6OP20].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Maria Bethânia e Zeca Pagodinho ｜ Verdade (Vídeo Oficial) [Itl0lJ4uvkU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Nesta Cidade [_EwBQJusarw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - Dono do Seu Beijo Part. Xand Avião (DVD Raça Negra & Amigos 2) [Video Oficial] [4p0NI2tOmkE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Aluga-se - Raul Seixas [d3iI-ktX2WI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Amor de Verão [p-yeYIkADrE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raparigueiro da Roça [huSVC9_2_84].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Água Da Minha Sede [oQrIqm4p02Q].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Saudade Fudida (Ao Vivo em Goiânia) [HycgJuSa9jo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Teste de Fármacia (Buteco in Boston) [notLoIbFhJM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Abandono de Incapaz  (Todos Os Cantos - Ao Vivo) [plNjJKTfat4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Bar da Esquina [VZiNeo4oEeQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Paixão Mal Resolvida (Videoclipe Oficial) [cmm8gKjrBVk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Mensagem de Amor [eSOb6HuZ4GI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ondas Do Mar [jtdju1Zmgrw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Relação Errada Part. Bruno & Marrone ｜ DVD Paraíso Particular [y4IIym6BmX0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Se (Buteco in Boston) [nzy9rR0SsFY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - O Que Falta Em Você Sou Eu (Vídeo Oficial) [CxKRaR6kFYs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça feat. Bruno e Marrone - Transplante (Vídeo Oficial) [wvln6hFsq1s].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Quando A Gira Girou [Nm5N4iFLU0g].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Sem Sal (Todos Os Cantos - Ao Vivo) [czOoOSLVwRI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul seixas- Metamorfose ambulante [7VE6PNwmr9g].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Prefiro Nem Saber (Buteco in Boston) [OzdNh5NrWEc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Luan Santana - Café com leite (DVD Luan Santana Acústico) [7AQDWQAPw84].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\A Tentação [ooXwNoMWnNY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Choro e Bebo [XSKB6TPSG7k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Fruto Proibido [2JjSmFZ1-Hg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Amante Não Tem Lar (Realidade - Ao Vivo) [OT7PpQEz7rc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico - Sonhei Com Você [9yFujEQ6Kww].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Quem Tem Ciúmes, Tem Amor no Coração [ExDXmDrW4Ls].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Sociedade Alternativa [IZdbkC_yobU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Um Dia Você Vai Chorar (A Moto) [_f-Zj-qi6yY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Anjo Protetor [xg5ifqIbzXg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Capim Guiné [gC8ElYcjevY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - How could i know [YnIhdnO93O4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Caviar (Clipe original) [4rkr4kTo9nY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Sambas Pras Moças [_6fqeF5jafo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Vai Vadiar [5UIQyuFbFzs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Ainda Ontem Chorei De Saudade [0WpfvN2JYdU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - 30 Cadeados Part. Mari Fernandez ｜ DVD Paraíso Particular [Yi9zr5CNQJs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - O Patrão e o Empregado [YRc7wVKciyQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Londres ou Canadá [gYlayL24icU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Henrique e Juliano - Deixa Ela Saber - DVD Novas Histórias - Ao vivo em Recife [_dgdBjlMXMA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Hoje Eu Quero Te Amar [PbVTI39g5LQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Na Hora De Amar [lJYbyzBkc2k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Bate Coração Que Você É Batedor [Q1d7geXqJ_o].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Só Quero me Casar se for com Quatro Muié [2dLgcNbzRYQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Casadinho de Novo (Brega de Luxo 2) [H3Q3QXtKFCg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cristiano neves vol 7 tou querendo você CD completo [4uoTYd5lSQY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Como Faz Com Ela (Vídeo Oficial) [JPWjJlNtE_w].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Se Ame Mais (Realidade - Ao Vivo) [UudUvcOZyMw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Vem Falar De Amor (Videoclipe Oficial) - Ceian Muniz [KcsAG_srmSI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Leandro e Leonardo - O quanto nosso amor valeu [0U0-ITxDqZ0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Pra Sempre Nós - DVD ＂Nossa História＂ [haoofU4JBXI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - É Tarde Demais part. Leonardo (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [2E1gDZ1ENpQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Declaração de amor [BU4bPzkPqf0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Horizonte azul [hgse7HJ-esM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Pode ir (Brega de Luxo 2) [fc5kTkbsYm8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico - Dê Amor para Quem te Ama [NJjXHqmVs-E].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - O Dono da Dor [TPTqmkUTf7g].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Chico Rey & Paraná - Alma Transparente (Ao Vivo Vol. 1)(Vídeo Oficial) [DJJJZCnUUx0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Isso É Ser Feliz [vsCXMJp92dM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - A Gente Não Se Aguenta (Realidade - Ao Vivo) [Way9cIOUs4k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Silêncio (Vídeo Oficial) [rEPjVthTNWg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Pergunte ao Dono do Bar [fILSeYxuLf8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Solidão Não [xiDsFOtPNdQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Golpes y besos [Cri0Bp_6Pz0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Henrique e Juliano - Ele Quer Ser Eu - DVD Novas Histórias - Ao vivo em Recife [IgEGq_QgrqY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\No Mesmo Lugar (Coisa Estranha) [ohbXpYSxnOU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Beber, Roer e Chorar [kcjBgjx4v30].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Parece Namoro (Agora Que São Elas 2 - Vídeo Oficial) [gqYHksX0Z_M].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gino & Geno - Ela Chorou De Amor (Ao Vivo)(Vídeo Oficial) [TlGLG92ZoJA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - O Taxista [yG9R_aBj63Y].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Canarinho do peito amarelo - Milionário & José Rico [Wp7GS8X6kvo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - O trem das sete (Áudio HQ) [1sAd6fUMxlI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cicatrizes [IvevvuPZfEE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marília Mendonça - Como Faz Com Ela (Vídeo Oficial) [JPWjJlNtE_w].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - São Paulo X Palmeiras [ndq6X_XjS-c].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Levanta o Copo [wWzVRURdJmY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Supera (Todos Os Cantos - Ao Vivo) [7fMttPxpcmg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionario e  Jose Rico - Corpo e Alma [n33ahRoAmww].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima -  Balada do Buteco (O Embaixador The Legacy) [0neb4BOVILE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Liguei Pra Dizer Que Te Amo [z8OYr39eeuM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Luan Santana - Chuva de arroz (DVD Luan Santana Acústico) [rTsbSY04s1Y].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Melô da CPI [Z7WQUTCaR10].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Só Quero Ver o Sol Raiar [9OR4_ZiZIuY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Perto de Você (Realidade - Ao Vivo) [3MRej_lv4ks].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário & José Rico - Solidão [qIDSHfB6wgU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Eta Povo Pra Lutar [4CZIuNQ05BU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Cê Ama Eu (Videoclipe Oficial) [LjdZQhxrd2k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Sonho de um Caminhoneiro - Milionário e José Rico - Legendado - sApiN [KQ1FMl5mxKQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Jorge & Mateus - Pergunta Boba - Part.  Maestro Pinocchio (Vídeo Oficial) [UcXckYdkSDQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Matheus & Kauan - Te Amo À Beça [xEBFajTpA2Q].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\MEDO DA CHUVA -RAUL SEIXAS [vV21CaatJ14].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário & José Rico - Vá Pro Inferno Com Seu Amor [dUTagKN2_rk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Só Quem Ama Sabe [cNAtN3jPJzY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Lama nas Ruas [Xu1ye4TOJKs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Ser Humano [ZXTtCESS5bE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Daniel Oficial - João Paulo e Daniel - Só dá você na minha vida [2pa75DiqL18].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Declaração de Amor (Buteco In Boston) [hlDeoN534NE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Solteiro Frustrado #Embaixador15Anos [KWp54ZJ2Q0E].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Coração Chora (EP 2019) [tWSHDpGqtSU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Decida - Milionário e José Rico [Mj3NmES44kw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Em Tom Maior [ND61b1x5sCc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico - Quem Disse Que Esqueci [6JrTp5KvbTs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Calcinha Preta - Ainda Te Amo - @CalcinhaPreta_ [AhExS3rvtfM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Café e Amor (O Embaixador The Legacy) [mFsHA1WDm0g].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Não Pega Ninguém Ainda (Ao Vivo em Belo Horizonte) [y3FdInN6n48].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Quebrando Protocolo feat. Dendelzinho (Buteco In Boston) [HYuWGkQhkeo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico Tristeza [jN7j3qbtstQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - Sozinho⧸Estou Mal⧸Volta (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [fVFp1fRFZNU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\A loira do carro branco [7W0CIlcbm38].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Mordidinha ｜ DVD Paraíso Particular [zZiyCDUP5UQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marília Mendonça - Alô Porteiro (Vídeo Oficial) [KFJIBTeUMF8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\ANCESTRAIS - MILIONÁRIO E JOSÉ RICO [F_GH8vIk6A4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Brilho dos Seus Olhos (Brega de Luxo 2) LANÇAMENTO [3SVjIaQGvfo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Saudade Mora Aqui (Videoclipe Oficial) [RvDqu2bSjhk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Até O Tempo Passa (Realidade - Ao Vivo) [BgcsPtsJTmI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Bye Bye (Todos Os Cantos - Ao Vivo) [tnfbhjbbmu4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e Jose Rico - Tribunal do Amor [lL8msKyD0-4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\No Bar [gkzOZWGs5ow].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Bruno & Marrone - Vida Vazia (Ao Vivo) [R_6MeYnDr_Q].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - Vai Curtir, Vai Dançar part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [zaRhSszSHCE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Solidão Nunca Mais [r014Mt-AM9E].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Cada Volta é um Recomeço [JPNDEZb9RAQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Estrada da vida [3rBrBaaZ3Rk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Cara da Derrota (Ao Vivo em Goiânia) [Nosy-f5WOBk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Henrique e Juliano - Nada, Nada - DVD Novas Histórias - Ao vivo em Recife [7j4GOkPJyWI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marília Mendonça - Essas Nossas Brigas (Vídeo Oficial) [9B7_KTYrTeM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marília Mendonça - Sentimento Louco (Vídeo Oficial) [mdiX9gfiBjU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Côco pra São João [5UlHwZ1jicw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Fusca a Gás (Ao Vivo) [5jqAwG-sCMA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - O Que É Amor Pra Você (Vídeo Oficial) [wqtRqLWe8Uo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico   Jogo do Amor [rs3kNruWkMo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico - O Último Julgamento. [7Nhdwuylr1s].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Paranóia. [DNhZ4HvCrA8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Leonardo - Eu Juro (I Swear) [Ao Vivo] [NJe4AQ72d8M].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Eu Não Sou Novela (Realidade - Ao Vivo) [NN3_g4T3Kok].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça feat. Henrique e Juliano - Impasse (Vídeo Oficial) [HL_uHQDi_0w].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Abre- te Sésamo [7CFf_6Ow47c].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - DESEJO IMORTAL (Ao vivo no Mineirão) [-UUe7g8-E0k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Henrique e Juliano - Flor E O Beija-Flor part. Marília Mendonça - DVD Novas Histórias [LmRrLl8aLfE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Jorge & Mateus - Como Não Me Apaixonar (Os Anjos Cantam) [Áudio Oficial] [J96pIUD_OEY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Folgado (Vídeo Oficial) [2HwD3wliSgw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Nem Foi E Já Voltou  (Realidade - Ao Vivo) [K6ScoGai3A0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - A Vida Inteira part. Eduardo Costa (DVD Raça Negra & Amigos 2) [Vídeo Oficial] [gMFA2bA3AHo].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Esta Noite Como Lembrança [j7P2KU3rDHI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Henrique e Juliano - Como É Que A Gente Fica - DVD Novas Histórias - Ao vivo em Recife [BA0x0ScUAvQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Entre Quatro Paredes (Vídeo Oficial) [TOTV-LPQz4I].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça feat. Gaab - Intenção (Todos Os Cantos - Ao Vivo) [1qKz_QohN7g].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça feat. Henrique e Juliano - Casa Da Mãe Joana (Todos Os Cantos - Ao Vivo) [hdjERtU7lMk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça feat. Henrique e Juliano - Mudou A Estação (Realidade - Ao Vivo) [-IYIVmoEXa8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raiva De Voce [wMHrtEdiaCw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Larga Essa Rua (Buteco in Boston) [xVu3AjRWudM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Mala dos Porta Mala part. Matheus e Kauan ｜ DVD Paraíso Particular [3zNabdrryYM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Termina Comigo Antes  (Ao Vivo em Porto Alegre) [rTJSWmgbVwA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Esse amor que me mata [em0z-auPk9Y].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Te Amo Cada Vez Mais (Buteco in Boston) [gvwZJQL7x5w].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Marcos e Fernando - Trocaria Tudo part. Henrique e Juliano ( Vídeo Oficial do DVD ) [lcP-Kfv_394].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Duvido Você Não Tomar uma [R7LoGudhNu0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Entre Ela e Eu (Sou Eu) [WJVUPxLyms8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Não Me Arranha (Buteco in Boston) [CGbvMQ7xDtE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Saudade da Minha Vida (Ao Vivo no Buteco São Paulo) [Jm5MCIVwjas].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Matheus & Kauan - Sete Mares - [DVD Mundo Paralelo] (Clipe Oficial) [EN-2obhg4To].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - A Eleição no Inferno [8sCmSriy2zk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Bezouro Mangagá [HUmLKxwTy54].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Um Matuto na Capital [wSAtUU88dgI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Meu Cupido É Gari (Vídeo Oficial) [cUsYWdJzmeM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Passa Mal (Todos Os Cantos - Ao Vivo) [OQ59_5ejr24].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Coração Mal Assombrado (Agora É Que São Elas 2 - Vídeo Oficial) [EIV2B1A0RkY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Amor Bandido [_wT4S9Hbv0s].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\E Agora [xfDCRFjLEiU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Amigo Emprestado (Todos os Cantos - Ao Vivo) [ckvH8KD_ovc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário e José Rico-Do Mundo Nada Se Leva [66y0VuXMdmE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - Preciso Dar Um Tempo (Raça Negra, Vol. 9) [Áudio Oficial] [R9B5r5MsLHg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Õ de Casa, Ô de Fora (Ao Vivo) [_zhfEV3dZBM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Bem Pior Que Eu (Todos Os Cantos - Ao Vivo) [ebG36xtK87A].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\A Gata do Bmw [95vU8szsL2A].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Melô dos Camelôs [lEnkw953e_0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Onde Anda Você [9apziy5sxnY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Fera Mulher [VB5oBMhnFcg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Cidade Acordada #Embaixador15Anos [ha3wJGIz72M].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Matheus & Kauan - Se Tem Paixão [S_o18yaGeHw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Bote a Cabeça Só [7HAmGW18tJ4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Feito Um Cão Sem Dono (EP 2019) [j7yQzcEy7v0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - O Remédio é Beber (Videoclipe Oficial) [iXiXgv94rYY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Quando Resolver Voltar [l2GvutQq6dw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Quatro e Quinze (Vídeo Oficial) [RRozxcyu0kI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Meu amigo Pedro [M-CFU2V7YF0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - De Quem É A Culpa？ (Realidade - Ao Vivo) [5hnSlCygsTs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\1975 - Raul Seixas - A Maçã [J7w7qC_0Ihs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Essas Nossas Brigas (Vídeo Oficial) [9B7_KTYrTeM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Sentimento Louco (Vídeo Oficial) [mdiX9gfiBjU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas： ＂Let Me Sing＂ [9QKv0X-PS-0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Pisa Como Eu Pisei [voY-THeekpg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Torce o Olho - Part. Hugo & Guilherme ｜ DVD Paraíso Particular [FHIlv6Zl9n4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Amanhã Eu Vou Lá Hoje [sx24DwsxAhM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\DVD-Milionario e José rico - Solidão [aPdAhyh308k].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça feat. Léo Santana e Didá Banda Feminina - Apaixonadinha (Todos Os Cantos - Ao Vivo) [1eZXuqrq910].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Pombinha branca (Vola colomba) [0clT5oQvokA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Chitãozinho & Xororó - Alô [gXVPbXmV1I4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Ex dos Meus Sonhos (Ao Vivo em Goiânia) [d7NMHcIecCE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Heitor & Henrique - Meio Tonto  [Sem Freio] [Zq5ng31jTOU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Infiel (Vídeo Oficial) [eCyMh-mZ1B0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Me Desculpe Mas Eu Sou Fiel (Vídeo Oficial) [hP23CNAyPQ4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Oi [4Ng4BW-Tsc8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Chitãozinho & Xororó - Página de Amigos [8N-6CSOyCU4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Anitta & Marília Mendonça - Some Que Ele Vem Atrás (Official Music Video) [B9Zj3ydFh9g].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionário & José Rico - Viva a Vida! ｜ DVD Ao Vivo [XGN-UH9Ii_Y].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Al Capone [jGUVnolU9QE].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça & Maiara e Maraisa - Bebaça (Todos Os Cantos - Ao Vivo) [g8VSOYAnbEM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Meu Dia Foi Ontem [MK8kmvtrLdQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - O dia em que a terra parou (Áudio HQ) [yYtx_QnSRaQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - o Rock das ＂Aranha＂ [e6skWXELXrg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Traz a Minha Paz [9h5zSTKBGVs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Viva a Vida e O Tropeiro, por Milionário e José Rico [9mEP0zaZ_7A].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Nota de Repúdio (Buteco in Boston) [y1TtVi6qm98].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Por Mais 3 Horas (Realidade - Ao Vivo) [ivlDh1YEi6U].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Mosca na Sopa - Raul Seixas [uILahrIRiMA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Preciso Ter Alguém (Ao Vivo) [A3E6Dwg8CyA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Pendência (Buteco In Boston) [GBQEYYSjEpY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Aos trancos e barrancos - Raul Seixas [7jExiisStxQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz - Sozinho (Brega de Luxo 2) [5__lj0o_hyg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Serenata (Todos Os Cantos - Ao Vivo) [noKzDrxHioc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Perdôa [3nPkxk16nYs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Metrô Linha 743 (Metrô Linha 743) [Áudio Oficial] [a_sJS4vwjC0].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Chico não Vai na Curimba [uO20tyydhoQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - O Ex da Sua Vida (Buteco in Boston) [AIoJl8plSWg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Tempo de Beber (Buteco In Boston) [SvaDIf6uTAc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Ausência (Agora Que São Elas 2 - Vídeo Oficial) [wje4zcGgSqA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Ei Saudade (Realidade - Ao Vivo) [f9C9aBUQVOg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Tente outra vez (Áudio HQ) [TR4oKmcZ3T4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Na Hora de Amar (Spending My Time) - DVD O Embaixador (Ao Vivo) [Uo7U7ruedic].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Olha Só Você (Realidade - Ao Vivo) [OWSDq4_8NiA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Passa a Mão no Boi [_6sw3jU0vZw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Bloqueado (Buteco In Boston) [14C28JSO-sg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Luan Santana - Promete (DVD O nosso tempo é hoje) [_wSCcZv4FDs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Desafio em Carreirão [u_dJQENoFqs].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Posto de Gasolina [YptuHR3qOPM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Tem Mulher Chorando [6hpn3uit5f8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Ficha Limpa - Falando de Amor [_7DKuv_xsuY].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Lado Emocional (Buteco In Boston) [GUE1Ilp8lVg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Estranho (Agora Que São Elas 2 - Vídeo Oficial) [2WsIm6pNlI4].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Love À Queima Roupa (Todos Os Cantos - Ao Vivo) [s_4Wdj7ajSA].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Chrystian & Ralf - Acústico - Cheiro de Shampoo [g4f8a0Yx9Qw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Eu tava Lá (Buteco In Boston) [L1WvfXBg5sk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - I Love You Baby (Buteco In Boston) [ivKeKU-bTB8].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Gusttavo Lima - Oficializar Part. Maiara & Maraisa ｜ DVD Paraíso Particular [ARYMAKnI0pk].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Ceian Muniz  - Me Chama (EP 2019) [iFoWi2IHgWg].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Milionario e José rico Saudade da minha terra [q_RHkDVPDAI].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raça Negra - Cheia De Manias (DVD Raça Negra & Amigos) [Video Oficial] [uJz0F36TGoc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho - Em Um Outdoor [JcacRCEGwwQ].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Zeca Pagodinho e Nelson Rufino： Verdade [7BIESKu_zDU].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Cajú e Castanha - Eu Não Gosto de Mentira [ENZXi4H8xhM].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Eu também vou reclamar - Raul seixas [M1vXVLnj3Bc].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Marília Mendonça - Bebi Liguei (Todos Os Cantos - Ao Vivo) [2nH7xAMqD2g].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\Raul Seixas - Como vovó já dizia. [wsNkL0LLFWw].mp3
+[2026-05-23 17:21:27] [INFO] [WATCHER] LOCAL removido: bbackup msc\mscs novas\É Tarde Demais (Ao Vivo) [d-_b8lrtL2o].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL criado: drive_bar
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL criado: drive_bar\etbilu.txt
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Rumo á Goiânia [Za-ELsZthcE].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Sublime renuncia [sMcmG2eLBXU].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo -  Me Leva Pra Casa ( Voz & Violão) [_eBjVFjHYK8].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Rick & Renner - Preciso Te Encontrar [HmGdfhd6U7Q].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Rionegro & Solimões - Peão Apaixonado (Ao Vivo) [jcmv9twd26s].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Teodoro & Sampaio - Passe livre (part. Leonito) [DVD 30 Anos - Ao vivo] [l8tEkOeIPnI].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Teodoro & Sampaio - Vestido de seda [DVD 30 Anos - Ao vivo] [Jq9f2TFmp08].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - Saudade Bandida (Clipe Oficial) [0UGf4BvHuMQ].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\O Amor É Feito De Momentos - Léo Augusto & Eduardo [jp6DioGW2Ys].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - No Dia em Que Eu Saí de Casa (Ao Vivo) [5ukX7atxjeI].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - Será Que Foi Saudade ？ (Ao Vivo) [62ippjVhLdc].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\♫♥♪Cleiton e Camargo-Quand um grande amor se faz♫♥♪ [sJ1tHP9kXCw].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Não aprendi a dizer adeus [Bq4tj2sQs1k].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Rionegro & Solimões - Frio Da Madrugada (Ao Vivo) [iL2jWRhFTtA].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\É o Amor [XTkFAKb8kbo].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Simone e Simaria - Meu Violão e o nosso Cachorro [Clip Oficial] [KqOzrrpAAjY].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - É Minha Vida (Áudio Oficial) [v_aOmXFm398].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zé Neto e Cristiano - Abaixa o Som - Part Marília Mendonça (DVD Ao vivo em São José do Rio Preto) [BRshAjXGk7Y].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zé Neto e Cristiano - Eu Ligo Pra Você (DVD Ao vivo em São José do Rio Preto) [SBKvDoCqKRc].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Índia (Índia) [eDMuy2WYK5Y].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Não durmo sem ela [ZplYAoloRfQ].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Ouvindo Seresta - Thainara & Thatiane, Laércia Dantas [XSMQnmlyY6Y].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Preciso Ser Amado [95bee5-xXy8].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Sonho por sonho [Y-TY4dWF3-0].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Temporal de amor [3Rik4-6ikRg].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Toma Juízo [oEgy3sLlCps].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - Dois Corações e Uma História (Live Video) [M2px6py3WYA].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - Indiferença (Ao Vivo) [ol5BeU4HXXc].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\O Grande Amor da Minha Vida (Convite de Casamento) [jaNPUc2aspQ].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - Coração Está em Pedaços (Clipe Oficial) [jqJpikFKO5w].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - Linda, Linda (Áudio Oficial) [Tj_bUPHxGLI].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - Pra Não Pensar em Você (Ao Vivo) [JPITxZbf5H4].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - É o Amor (Ao Vivo) [LsWA1b_iCE4].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Não Tenha Dúvida [I96Y-Pi-0pw].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Pense em mim [rCq4r2ct94U].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Talismã [2xrppJrllv8].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Zezé Di Camargo & Luciano - Sem Medo de Ser Feliz (Ao Vivo) [xhrpaq3ec0I].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: responsaveis.js
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Reginaldo Rossi e Roberta Miranda - Amanhã [_-kpXGSiaOQ].mp3
+[2026-05-23 17:21:29] [INFO] [WATCHER] LOCAL removido: bbackup msc\musicas\Rick & Renner - Ela é demais (Clipe Oficial) [nLoTi-E442M].mp3
+[2026-05-23 17:21:31] [INFO] [WATCHER] LOCAL alterado: drive_bar
+[2026-05-23 17:22:01] [ERROR] [WATCHER] Erro em LOCAL: já existe uma sincronização em andamento
+[2026-05-23 17:24:54] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 17:24:55] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP
+[2026-05-23 17:24:55] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 17:25:33] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP
+[2026-05-23 17:31:39] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 17:31:39] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 17:31:39] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 17:32:12] [INFO] [LOCAL] Verificando alterações em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 17:32:20] [BLOCKED] [LOCAL] Conflito detectado
+[2026-05-23 17:32:21] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 17:32:21] [INFO] [WATCHER] LOCAL alterado: .gitignore
+[2026-05-23 17:32:21] [INFO] [WATCHER] LOCAL criado: oi.txt
+[2026-05-23 17:32:51] [ERROR] [WATCHER] Erro em LOCAL: sincronização bloqueada por conflito. Resolva e use unlock
+[2026-05-23 17:32:59] [SUCCESS] [GIT] Bloqueio removido manualmente
+[2026-05-23 17:33:03] [INFO] [LOCAL] Verificando alterações em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 17:33:11] [ERROR] [LOCAL] To https://github.com/wgustavo-dev/drive_bar.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/wgustavo-dev/drive_bar.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-05-23 18:03:00] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 18:03:00] [SUCCESS] [WATCHER] LOCAL monitorando: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 18:03:01] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:03:18] [INFO] [LOCAL] Verificando alterações em: C:\Users\gusta\OneDrive\Área de Trabalho\BELLA_UP
+[2026-05-23 18:03:26] [ERROR] [LOCAL] To https://github.com/wgustavo-dev/drive_bar.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/wgustavo-dev/drive_bar.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-05-23 18:04:57] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 18:04:57] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP\drive_bar
+[2026-05-23 18:04:58] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:05:22] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP\drive_bar
+[2026-05-23 18:05:30] [BLOCKED] [LOCAL] Conflito detectado
+[2026-05-23 18:05:31] [INFO] [WATCHER] LOCAL alterado: .gitignore
+[2026-05-23 18:05:31] [INFO] [WATCHER] LOCAL alterado: etbilu.txt
+[2026-05-23 18:05:31] [INFO] [WATCHER] LOCAL criado: oi.txt
+[2026-05-23 18:05:31] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 18:06:01] [ERROR] [WATCHER] Erro em LOCAL: sincronização bloqueada por conflito. Resolva e use unlock
+[2026-05-23 18:06:18] [INFO] [SYSTEM] B.E.L.L.A. encerrada
+[2026-05-23 18:06:26] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 18:06:26] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP\drive_bar
+[2026-05-23 18:06:27] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:06:29] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:06:34] [SUCCESS] [USB] Sincronização concluída
+[2026-05-23 18:06:42] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP\drive_bar
+[2026-05-23 18:06:50] [ERROR] [LOCAL] To https://github.com/wgustavo-dev/drive_bar.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/wgustavo-dev/drive_bar.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-05-23 18:09:45] [INFO] [SYSTEM] B.E.L.L.A. encerrada
+[2026-05-23 18:12:31] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 18:12:32] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP\drive_bar
+[2026-05-23 18:12:32] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:12:48] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP\drive_bar
+[2026-05-23 18:12:56] [SUCCESS] [LOCAL] Sincronização concluída
+[2026-05-23 18:13:31] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:13:40] [SUCCESS] [USB] Sincronização concluída
+[2026-05-23 18:13:40] [INFO] [WATCHER] USB alterado: .gitignore
+[2026-05-23 18:13:40] [INFO] [WATCHER] USB criado: etbilu.txt
+[2026-05-23 18:13:40] [INFO] [WATCHER] USB removido: oi.txt
+[2026-05-23 18:13:50] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:13:56] [SUCCESS] [USB] Sincronização concluída
+[2026-05-23 18:28:18] [INFO] [SYSTEM] B.E.L.L.A. encerrada
+[2026-05-23 18:30:02] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 18:30:02] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP\drive_bar
+[2026-05-23 18:30:03] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:30:06] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:30:11] [SUCCESS] [USB] Sincronização concluída
+[2026-05-23 18:30:14] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 18:30:14] [INFO] [WATCHER] LOCAL alterado: .gitignore
+[2026-05-23 18:30:14] [INFO] [WATCHER] LOCAL criado: apresentação.pptx
+[2026-05-23 18:30:24] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP\drive_bar
+[2026-05-23 18:30:29] [SUCCESS] [LOCAL] Sincronização concluída
+[2026-05-23 18:31:05] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP\drive_bar
+[2026-05-23 18:31:11] [SUCCESS] [LOCAL] Sincronização concluída
+[2026-05-23 18:31:54] [INFO] [WATCHER] LOCAL criado: pasta aleatoria
+[2026-05-23 18:31:54] [INFO] [WATCHER] LOCAL criado: pasta aleatoria\route_mensalidade.ts
+[2026-05-23 18:31:54] [INFO] [WATCHER] LOCAL criado: pasta aleatoria\service_dashboard.ts
+[2026-05-23 18:31:54] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 18:31:54] [INFO] [WATCHER] LOCAL criado: pasta aleatoria\control_mensalidade.ts
+[2026-05-23 18:31:54] [INFO] [WATCHER] LOCAL criado: pasta aleatoria\service_mensalidade.ts
+[2026-05-23 18:32:04] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP\drive_bar
+[2026-05-23 18:32:12] [SUCCESS] [LOCAL] Sincronização concluída
+[2026-05-23 18:32:31] [INFO] [WATCHER] USB alterado: .gitignore
+[2026-05-23 18:32:41] [INFO] [WATCHER] USB criado: pasta aleatoria
+[2026-05-23 18:32:41] [INFO] [WATCHER] USB criado: pasta aleatoria\control_mensalidade.ts
+[2026-05-23 18:32:41] [INFO] [WATCHER] USB criado: pasta aleatoria\route_mensalidade.ts
+[2026-05-23 18:32:41] [INFO] [WATCHER] USB criado: pasta aleatoria\service_dashboard.ts
+[2026-05-23 18:32:41] [INFO] [WATCHER] USB criado: pasta aleatoria\service_mensalidade.ts
+[2026-05-23 18:32:41] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:32:46] [SUCCESS] [USB] Sincronização concluída
+[2026-05-23 18:32:59] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:33:04] [SUCCESS] [USB] Sincronização concluída
+[2026-05-23 18:34:47] [INFO] [WATCHER] USB removido: pasta aleatoria\control_mensalidade.ts
+[2026-05-23 18:34:47] [INFO] [WATCHER] USB removido: pasta aleatoria\route_mensalidade.ts
+[2026-05-23 18:34:47] [INFO] [WATCHER] USB removido: pasta aleatoria\service_dashboard.ts
+[2026-05-23 18:34:47] [INFO] [WATCHER] USB removido: .gitignore
+[2026-05-23 18:34:47] [INFO] [WATCHER] USB removido: pasta aleatoria
+[2026-05-23 18:34:47] [INFO] [WATCHER] USB removido: pasta aleatoria\service_mensalidade.ts
+[2026-05-23 18:34:47] [INFO] [WATCHER] USB removido: apresentação.pptx
+[2026-05-23 18:34:47] [INFO] [WATCHER] USB removido: etbilu.txt
+[2026-05-23 18:34:57] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:35:06] [SUCCESS] [USB] Sincronização concluída
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL removido: etbilu.txt
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL removido: pasta aleatoria\control_mensalidade.ts
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL removido: pasta aleatoria\service_dashboard.ts
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL removido: pasta aleatoria\service_mensalidade.ts
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL removido: apresentação.pptx
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL removido: pasta aleatoria
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL removido: pasta aleatoria\route_mensalidade.ts
+[2026-05-23 18:35:10] [INFO] [WATCHER] LOCAL removido: .gitignore
+[2026-05-23 18:35:14] [INFO] [SYSTEM] B.E.L.L.A. v0.2.1 iniciada
+[2026-05-23 18:35:14] [INFO] [WATCHER] LOCAL alterado: .
+[2026-05-23 18:35:14] [INFO] [WATCHER] LOCAL criado: .gitignore
+[2026-05-23 18:35:14] [SUCCESS] [WATCHER] LOCAL monitorando: C:\BELLA_UP\drive_bar
+[2026-05-23 18:35:15] [SUCCESS] [WATCHER] USB monitorando: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:35:24] [INFO] [LOCAL] Verificando alterações em: C:\BELLA_UP\drive_bar
+[2026-05-23 18:35:32] [SUCCESS] [LOCAL] Sincronização concluída
+[2026-05-23 18:35:53] [INFO] [WATCHER] USB criado: .gitignore
+[2026-05-23 18:36:03] [INFO] [USB] Verificando alterações em: D:\BELLA_PORTABLE\drive_bar
+[2026-05-23 18:36:08] [SUCCESS] [USB] Sincronização concluída

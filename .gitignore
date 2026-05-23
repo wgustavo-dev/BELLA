@@ -1,0 +1,28 @@
+# Go build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Binaries
+/bin/
+/pkg/
+
+# Vendor
+/vendor/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Coverage
+/coverage.out
